@@ -1,0 +1,17 @@
+{
+  "a11y": {
+    "description": "Short form for accessibility. The 11 represents the 11 characters between the 'a' and 'y' of accessibility.",
+    "see": "accessibility",
+    "also": [
+      "l10n",
+      "i18n"
+    ]
+  },
+  "accessibility": {
+    "description": "",
+    "references": "",
+    "links":[
+      { "MDN" : "https://developer.mozilla.org/en-US/docs/Web/Accessibility" }
+    ]
+  }
+}
